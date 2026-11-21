@@ -656,7 +656,7 @@ a{
 
 }
 
-@media screen and (max-width: 959px){
+@media screen and (min-width: 769px) and (max-width: 959px){
   img{
   text-align: center;
   border-radius: 0.50rem;
@@ -665,10 +665,14 @@ a{
   height: 350px;
 }
 
-p{
-  margin-left: 10rem;
-  margin-right: 10rem;
-}
+ p{
+  margin-left: 15rem;
+  margin-right: 15rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: #004aad;
+ }
+   
  .container{
   padding-left: 5rem;
   padding-right: 5rem;
