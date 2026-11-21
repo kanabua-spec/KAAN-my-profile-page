@@ -227,7 +227,9 @@ a{
   margin: 1rem;
   justify-content: center;
   align-items: center;  
-}/*Main styles*/
+}
+
+/*Main styles*/
 
 /*HEADER*/
 
@@ -568,6 +570,7 @@ a{
    width: auto;
    height: auto;
   }
+.container3 p{color: #fef1bd;}
 
   
 /*🔥MEDIA*/
