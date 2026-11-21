@@ -747,6 +747,8 @@ a{
     flex-direction: column;
   }
     .container2{
+    margin-left: 2rem;
+    margin-right: 2rem;
     display: flex;
     margin: 0.5rem;
     flex-direction: column;
@@ -763,7 +765,7 @@ a{
     flex-direction: column;
     width: auto;
     height: auto;
-     margin: 1rem;
+    margin-bottom: 1rem;
   }
   img{
     width: 350px;
