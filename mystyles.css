@@ -344,7 +344,7 @@ a{
 .decoration {
     display: flex;
     flex-direction: column;
-    background-color: pink;
+    background-color: url(BG.PNG);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment:scroll;
