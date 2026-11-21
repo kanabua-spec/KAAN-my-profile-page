@@ -519,6 +519,9 @@ p{
   width: 35rem;
   height: 17rem;
 }
+.container2 div p{
+   margin: 2rem;
+}
 
  img{
   margin: 1rem;
@@ -637,6 +640,9 @@ a{
   width: auto;
   height: auto;
 }
+   .container2 div p{
+   margin: 2rem;
+}
       
 #me{
   background-color: #004aad;
@@ -695,6 +701,9 @@ p{
   width: 35rem;
   height: 22rem;
    color: #fef1bd;
+}
+   .container2 div p{
+   margin: 2rem;
 }
  img{
     width: 250px;
