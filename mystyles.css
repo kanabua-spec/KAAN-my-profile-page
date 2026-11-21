@@ -683,6 +683,7 @@ a{
  .container2{
   padding-left: 1rem;
   padding-right: 1rem;
+
 }
 .container2 div {
    background-color: #fef1bd;
@@ -693,7 +694,7 @@ a{
   border: 0.15rem solid;
   margin-bottom: 2rem;
   width: 35rem;
-  height: 22rem;
+  height: auto;
    color: #fef1bd;
 }
    .container2 div p{
