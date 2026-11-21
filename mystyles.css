@@ -341,16 +341,6 @@ a{
 
 
 /*✨TITLE HEADERS*/
-.decoration {
-    display: flex;
-    flex-direction: column;
-    background-color: url(BG.PNG);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment:scroll;
-    background-size: cover;
-    margin: auto;
-}
 
 /*💗🔥MAIN SHENANIGANS */
 
@@ -795,4 +785,17 @@ p{
     width:427px;
     height:240px;
   }
+}
+
+/*TITLE HEADER DECORATION*/
+
+.decoration {
+    display: flex;
+    flex-direction: column;
+    background-color: url(BG.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:scroll;
+    background-size: cover;
+    margin: auto;
 }
