@@ -798,6 +798,6 @@ p{
     background-attachment:scroll;
     background-size: cover;
     margin: auto;
-   height: auto;
-   width: auto;
+   height: 100%;
+   width: 100%;
 }
