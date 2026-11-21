@@ -691,6 +691,7 @@ p{
   margin-bottom: 2rem;
   width: 35rem;
   height: 22rem;
+   color: #fef1bd;
 }
  img{
     width: 250px;
@@ -745,6 +746,7 @@ p{
   }
   .container2 div{
     display: flex;
+     color: #fef1bd;
     margin-left: 2rem;
     margin-right: 2rem;
     flex-direction: column;
