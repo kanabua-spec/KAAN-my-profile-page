@@ -798,5 +798,5 @@ p{
     background-attachment:scroll;
     background-size: cover;
     margin: auto;
-    min-height: 50vh;
+    min-height: auto;
 }
