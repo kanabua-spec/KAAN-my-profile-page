@@ -686,16 +686,18 @@ a{
 
 }
 .container2 div {
-   background-color: #fef1bd;
+  background-color: #fef1bd;
   color: #004aad;
   margin-left: 1rem;
   margin-right: 1rem;
    border-color: #004aad;
   border: 0.15rem solid;
-  margin-bottom: 2rem;
-  width: 35rem;
+  border-radius: 0.75rem;
+  justify-content: center;
+  font-size: 1rem; 
+  font-family: "Lexend", sans-serif;
+  width: auto;
   height: auto;
-   color: #fef1bd;
 }
    .container2 div p{
    margin: 2rem;
@@ -753,15 +755,15 @@ a{
   }
   .container2 div{
     background-color: #fef1bd;
-  color: #004aad;
-  margin-left: 2rem;
-  margin-right: 2rem;
-     margin: 0.5rem;
-   border-color: #004aad;
-  border: 0.15rem solid;
+    color: #004aad;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-color: #004aad;
+    border: 0.15rem solid;
     flex-direction: column;
     width: auto;
     height: auto;
+     margin: 1rem;
   }
   img{
     width: 350px;
