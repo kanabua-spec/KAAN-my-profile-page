@@ -792,7 +792,7 @@ p{
 .decoration {
     display: flex;
     flex-direction: column;
-    background-color: pink;
+    background-image: url(BG.PNG);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment:scroll;
