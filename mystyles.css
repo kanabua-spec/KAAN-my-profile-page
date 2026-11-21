@@ -792,10 +792,12 @@ p{
 .decoration {
     display: flex;
     flex-direction: column;
-    background-image: url("WAS.png");
+    background-image: url("BG.png");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment:scroll;
     background-size: cover;
     margin: auto;
+   height: 120rem;
+   width: 67.5rem;
 }
