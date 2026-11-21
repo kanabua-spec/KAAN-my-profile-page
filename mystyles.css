@@ -756,10 +756,11 @@ a{
   color: #004aad;
   margin-left: 2rem;
   margin-right: 2rem;
+     margin: 0.5rem;
    border-color: #004aad;
   border: 0.15rem solid;
     flex-direction: column;
-    width: 28rem;
+    width: auto;
     height: auto;
   }
   img{
