@@ -507,7 +507,7 @@ p{
   font-size: 1rem; 
   font-family: "Lexend", sans-serif;
   width: 35rem;
-  height: 20rem;
+  height: auto;
 }
 .container2 div p{
    margin: 2rem;
