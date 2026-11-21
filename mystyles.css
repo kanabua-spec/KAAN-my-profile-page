@@ -506,7 +506,7 @@ p{
   justify-content: center;
   font-size: 1rem; 
   font-family: "Lexend", sans-serif;
-  width: 35rem;
+  width: auto;
   height: auto;
 }
 .container2 div p{
