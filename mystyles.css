@@ -583,15 +583,6 @@ a{
  .container div{
   margin: 1px;
 }
- .container2{
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.container2 div {
-  margin-bottom: 2rem;
-  width: 35rem;
-  height: 22rem;
-}
 
  img{
     width: 250px;
@@ -625,7 +616,8 @@ a{
 .container2{
   overflow: hidden;
   background-color: #fef1bd;
-  padding: 1rem;
+  padding-left: 1rem;
+   padding-right: 1rem;
   margin: 1rem;
   display: flex;
   justify-content: center;
@@ -693,6 +685,12 @@ p{
   padding-right: 1rem;
 }
 .container2 div {
+   background-color: #fef1bd;
+  color: #004aad;
+  margin-left: 1rem;
+  margin-right: 1rem;
+   border-color: #004aad;
+  border: 0.15rem solid;
   margin-bottom: 2rem;
   width: 35rem;
   height: 22rem;
