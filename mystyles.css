@@ -725,7 +725,7 @@ a{
   }
 }
 
-@media screen and (min-width: 360px) and (max-width: 768px){
+@media screen and (max-width: 768px){
 
   h2{
     margin-left: 2rem;
@@ -799,7 +799,6 @@ a{
 }
 
 /*TITLE HEADER DECORATION*/
-
 
 .decoration {
     display: flex;
